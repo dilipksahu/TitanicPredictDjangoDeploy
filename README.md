@@ -2,7 +2,7 @@
 <h1>Titanic Survival Predictor ML Model</h1>
 Tells whether a passenger (with characteristics as your input) can survive the Titanic drowning or not!
 The model and dataset can be found here. Also check the competetion Titanic: Machine learning from Disaster on kaggle.
-
+<br>
 ![titanicimage](https://user-images.githubusercontent.com/60321342/97879100-92562480-1d45-11eb-8be1-b5c610ff7b20.jpg)
 
 
